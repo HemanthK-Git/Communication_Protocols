@@ -1,3 +1,5 @@
+// data transfer from master to slave
+
 `timescale 1ns / 1ps
 
 module spi(
